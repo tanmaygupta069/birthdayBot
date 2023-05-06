@@ -2,7 +2,6 @@ import discord
 from replit import db
 from discord.ext import commands
 from token_2 import token
-# from datetime import datetime, timezone,date
 import datetime
 import pytz
 import asyncio
